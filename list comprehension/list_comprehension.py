@@ -1,1 +1,3 @@
-print("teste")
+def teste():
+    print("ola mundo!")
+teste()
